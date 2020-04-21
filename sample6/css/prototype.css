@@ -1,0 +1,78 @@
+div.YahooShoppingAPISDK *{
+    margin: 0;
+    padding: 0;
+}
+
+div.YahooShoppingAPISDK a:link{
+    color:#17387B;
+    text-decoration:underline;
+}
+
+div.YahooShoppingAPISDK a:visited{
+    color:#69789C;
+    text-decoration:underline;
+}
+
+div.YahooShoppingAPISDK a:hover{
+    text-decoration:underline;
+}
+
+div.YahooShoppingAPISDK{
+    margin-left:5px;
+    width:180px;
+}
+
+form.Search{
+    margin-left:10px;
+    text-align:left;
+}
+
+form.Search input,form.Search select{
+    margin-top:1px;
+    width:160px;
+}
+
+div.YahooShoppingAPISDK h1{
+    width:auto;
+    color:#666666;
+    text-align:center;
+    font-size: smaller;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+div.Item{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+div.Item h2{
+    font-size:smaller;
+    text-align:left;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+div.Item img{
+    border:none;
+}
+
+div.Item p{
+    padding:10px;
+    text-align:left;
+}
+
+div.Item p.Price{
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:smaller;
+    color:#990000;
+    font-weight:bolder;
+}
+
+div.Item i{
+    style="width:300px;
+    height:150px;
+    overflow:auto;
+}
+
